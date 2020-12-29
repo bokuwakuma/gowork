@@ -10,4 +10,4 @@ Go学習用リポジトリ
 * インターフェース
 * ポインタ
 * 委譲と組み込み（継承の代わり）
-  * 参考URL[オブジェクト指向源ととしてGoをやろうとするとハマる点を整理してみる](https://qiita.com/sonatard/items/2b4b70694fd680f6297c)
+  * 参考URL[オブジェクト指向言語としてGoをやろうとするとハマる点を整理してみる](https://qiita.com/sonatard/items/2b4b70694fd680f6297c)
